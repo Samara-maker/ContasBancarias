@@ -15,9 +15,11 @@ public class ContaBancaria
     {
         if (saldo < 0)
         {
-            _saldo = saldo;
-        }else
             Console.WriteLine("Valor inválido...");
+
+        }
+        else
+            _saldo = saldo;
     }
 
     public double GetSaldo()
@@ -63,6 +65,7 @@ public class ContaBancaria
         }
         else
             _saldo += deposito;
+        Console.WriteLine("Deposito realizado");
     }
 
     public void SetSaque(double saque)
@@ -73,6 +76,7 @@ public class ContaBancaria
         }
         else
             _saldo -= saque;
+        Console.WriteLine("Saque realizado com sucesso");
     }
 
 }
