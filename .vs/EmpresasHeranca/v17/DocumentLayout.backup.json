@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\empresasheranca\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\empresasheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\empresasheranca\\contaestudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|solutionrelative:contaestudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\empresasheranca\\contaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0DCD06-3FBA-42D4-9088-ABC8F0916223}|EmpresasHeranca.csproj|solutionrelative:contaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaEstudante.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\ContaEstudante.cs",
+              "RelativeDocumentMoniker": "ContaEstudante.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\ContaEstudante.cs",
+              "RelativeToolTip": "ContaEstudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:12:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\ContaEmpresa.cs",
+              "RelativeDocumentMoniker": "ContaEmpresa.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\ContaEmpresa.cs",
+              "RelativeToolTip": "ContaEmpresa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:12:19.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancaria.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:11:55.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\EmpresasHeranca\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T00:09:03.791Z",
               "EditorCaption": ""

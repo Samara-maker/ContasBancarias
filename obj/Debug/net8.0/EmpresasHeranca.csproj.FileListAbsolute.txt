@@ -1,0 +1,15 @@
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\bin\Debug\net8.0\EmpresasHeranca.exe
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\bin\Debug\net8.0\EmpresasHeranca.deps.json
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\bin\Debug\net8.0\EmpresasHeranca.runtimeconfig.json
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\bin\Debug\net8.0\EmpresasHeranca.dll
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\bin\Debug\net8.0\EmpresasHeranca.pdb
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.AssemblyInfoInputs.cache
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.AssemblyInfo.cs
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.csproj.CoreCompileInputs.cache
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.sourcelink.json
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.dll
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\refint\EmpresasHeranca.dll
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.pdb
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\EmpresasHeranca.genruntimeconfig.cache
+C:\Users\2024102060004\OneDrive\POO (2)\POO\EmpresasHeranca\obj\Debug\net8.0\ref\EmpresasHeranca.dll

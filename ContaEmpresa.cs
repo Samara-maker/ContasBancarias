@@ -6,6 +6,21 @@ public class ContaEmpresa: ContaBancaria
     public double _totalEmprestimo;
 
 
+    public ContaEmpresa()
+    {
+
+    }
+    public ContaEmpresa(int _numConta, int _agencia, string _titular, double _saldo, double _anuidade, double _limiteEmprestimo, double _totalEmprestimo)
+    {
+        SetConta(_numConta);
+        SetAgencia(_agencia);
+        SetTitular(_titular);
+        SetSaldo(_saldo);
+        SetAnuidade(_anuidade);
+        SetEmprestimo(_limiteEmprestimo);
+    }
+
+
 
     public void SetAnuidade(double anuidade)
     {
